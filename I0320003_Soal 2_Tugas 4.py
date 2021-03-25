@@ -9,4 +9,4 @@ nilai = math.floor(x/y)
 sisa = float(x/y)
 # menampilkan hasil
 print("Hasil bagi x dan y adalah",nilai)
-print("Sisa pembagian", (sisa - nilai))
+
